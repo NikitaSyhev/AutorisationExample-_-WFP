@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutorisationExampleWFP", "AutorisationExampleWFP\AutorisationExampleWFP.csproj", "{6454B292-FD7A-4CCB-BA9C-FAFD32EAC622}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6454B292-FD7A-4CCB-BA9C-FAFD32EAC622}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6454B292-FD7A-4CCB-BA9C-FAFD32EAC622}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6454B292-FD7A-4CCB-BA9C-FAFD32EAC622}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6454B292-FD7A-4CCB-BA9C-FAFD32EAC622}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3E8D746B-69BE-4AED-B43B-D76407B94843}
+	EndGlobalSection
+EndGlobal
